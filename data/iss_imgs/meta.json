@@ -1,0 +1,10 @@
+{
+    "lensDistortionCorrected": false, 
+    "fromFrame": 64750, 
+    "pattern": "{mission}-{roll}-{frame}.jpg", 
+    "mission": "ISS040", 
+    "roll": "E", 
+    "toFrame": 64770, 
+    "lensDistortionCorrectionParams": null, 
+    "frameGaps": []
+}

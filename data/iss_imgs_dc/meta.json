@@ -1,0 +1,18 @@
+{
+    "lensDistortionCorrected": true, 
+    "fromFrame": 64750, 
+    "pattern": "{mission}-{roll}-{frame}_dc.jpg", 
+    "mission": "ISS040", 
+    "roll": "E", 
+    "toFrame": 64770, 
+    "lensDistortionCorrectionParams": {
+        "focalLength": 50.0, 
+        "lensMaker": "Nikon", 
+        "cameraMaker": "Nikon Corporation", 
+        "aperture": 1.399999976158142, 
+        "lensModel": "Nikon AF Nikkor 50mm f/1.4D", 
+        "cameraVariant": null, 
+        "cameraModel": "Nikon D3S"
+    }, 
+    "frameGaps": []
+}
