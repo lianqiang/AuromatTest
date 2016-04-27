@@ -1,0 +1,2 @@
+/home/lianqiang/lensfun-0.3.2/CMAKE/libs/lensfun/CMakeFiles/lensfun.dir
+/home/lianqiang/lensfun-0.3.2/CMAKE/apps/CMakeFiles/python-package.dir

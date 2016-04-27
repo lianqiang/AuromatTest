@@ -1,0 +1,13 @@
+prefix=/usr/local
+bindir=/usr/local/bin
+libdir=/usr/local/lib/x86_64-linux-gnu
+includedir=/usr/local/include
+datadir=/usr/local/share
+docdir=/usr/local/share/doc/lensfun
+
+Name: lensfun
+Description: A photographic lens database and access library
+Version: 0.3.2.0
+Requires.private: glib-2.0
+Libs: -L${libdir} -llensfun
+Cflags: -I${includedir} -I${includedir}/lensfun
